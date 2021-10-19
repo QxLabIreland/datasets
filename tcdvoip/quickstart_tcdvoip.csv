@@ -1,0 +1,11 @@
+,Item,Ref_Wave,Test_Wave,Mushra_Scores,Utterance,Folder,Condition,Codec,Rate_kbps,sampleMOS,conditionMOS,conditionCI,DataBase,sampleSTD,sampleCI,Degradation,sumVotes,CodecCombination,Q_Value_dB,EXP,NoiseType,ErrorType,ErrorRate%
+0,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_01_ECHO_FA.wav,quickstart_TCDvoip/Test_Set/ECHO/C_01_ECHO_FA.wav,,,,1,,,4.583333333,4.677083333,0.107383045,quickstart_TCDvoip,0.653862548,0.261599502,ECHO,110.0,,,,,,
+1,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_01_ECHO_FG.wav,quickstart_TCDvoip/Test_Set/ECHO/C_01_ECHO_FG.wav,,,,1,,,4.708333333,4.677083333,0.107383045,quickstart_TCDvoip,0.464305621,0.185760937,ECHO,113.0,,,,,,
+2,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_01_ECHO_MK.wav,quickstart_TCDvoip/Test_Set/ECHO/C_01_ECHO_MK.wav,,,,1,,,4.875,4.677083333,0.107383045,quickstart_TCDvoip,0.337831962,0.135160935,ECHO,117.0,,,,,,
+3,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_01_ECHO_ML.wav,quickstart_TCDvoip/Test_Set/ECHO/C_01_ECHO_ML.wav,,,,1,,,4.541666667,4.677083333,0.107383045,quickstart_TCDvoip,0.65800533,0.26325696,ECHO,109.0,,,,,,
+4,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_02_ECHO_FA.wav,quickstart_TCDvoip/Test_Set/ECHO/C_02_ECHO_FA.wav,,,,2,,,4.541666667,4.635416667,0.1225,quickstart_TCDvoip,0.7210600090000001,0.288484086,ECHO,109.0,,,,,,
+5,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_02_ECHO_FG.wav,quickstart_TCDvoip/Test_Set/ECHO/C_02_ECHO_FG.wav,,,,2,,,4.75,4.635416667,0.1225,quickstart_TCDvoip,0.531609533,0.212688109,ECHO,114.0,,,,,,
+6,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_02_ECHO_MK.wav,quickstart_TCDvoip/Test_Set/ECHO/C_02_ECHO_MK.wav,,,,2,,,4.583333333,4.635416667,0.1225,quickstart_TCDvoip,0.653862548,0.261599502,ECHO,110.0,,,,,,
+7,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_02_ECHO_ML.wav,quickstart_TCDvoip/Test_Set/ECHO/C_02_ECHO_ML.wav,,,,2,,,4.666666667,4.635416667,0.1225,quickstart_TCDvoip,0.564659703,0.225910931,ECHO,112.0,,,,,,
+8,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_03_ECHO_FA.wav,quickstart_TCDvoip/Test_Set/ECHO/C_03_ECHO_FA.wav,,,,3,,,4.625,4.604166667,0.116553015,quickstart_TCDvoip,0.646898957,0.258813486,ECHO,111.0,,,,,,
+9,,quickstart_TCDvoip/Test_Set/ECHO/ref/R_03_ECHO_FG.wav,quickstart_TCDvoip/Test_Set/ECHO/C_03_ECHO_FG.wav,,,,3,,,4.666666667,4.604166667,0.116553015,quickstart_TCDvoip,0.481543412,0.192657489,ECHO,112.0,,,,,,
